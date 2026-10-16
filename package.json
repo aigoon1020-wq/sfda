@@ -1,0 +1,15 @@
+{
+  "name": "vaultoria-landing",
+  "version": "1.0.0",
+  "description": "Landing page redirect for Vaultoria game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
